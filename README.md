@@ -63,7 +63,9 @@
 
 ## 🚀 Other Featured Repositories
 
-- [![🧠Python](https://img.shields.io/badge/GitHub-AI__ML-181717?style=flat&logo=github)](https://github.com/Soumyad0670/Python)
+- [![🧠AI ML](https://img.shields.io/badge/GitHub-AI__ML-181717?style=flat&logo=github)](https://github.com/Soumyad0670/AI_ML)
+
+- [![📊Python](https://img.shields.io/badge/GitHub-python-181717?style=flat&logo=github)](https://github.com/Soumyad0670/Python)
 
 - [![🔣 C Programming](https://img.shields.io/badge/GitHub-C-181717?style=flat&logo=github)](https://github.com/Soumyad0670/C)
 
