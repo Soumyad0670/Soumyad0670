@@ -19,42 +19,42 @@
 
 ## 🎬 Featured Projects
 
-### [📺 Netflix Recommendation System](https://github.com/Soumyad0670/Netflix-Recommendation-System)
+### [📺 Netflix Recommendation System](https://github.com/Soumyad0670/Netflix_Recommendation)
 
-<a href="https://github.com/Soumyad0670/Netflix-Recommendation-System/stargazers" target="_blank">
-  <img src="https://img.shields.io/github/stars/Soumyad0670/Netflix-Recommendation-System?style=social" alt="Stars"/>
+<a href="https://github.com/Soumyad0670/Netflix_Recommendation/stargazers" target="_blank">
+  <img src="https://img.shields.io/github/stars/Soumyad0670/Netflix_Recommendation?style=social" alt="Stars"/>
 </a>
 
-<a href="https://github.com/Soumyad0670/Netflix-Recommendation-System/network/members" target="_blank">
-  <img src="https://img.shields.io/github/forks/Soumyad0670/Netflix-Recommendation-System?style=social" alt="Forks"/>
+<a href="https://github.com/Soumyad0670/Netflix_Recommendation/network/members" target="_blank">
+  <img src="https://img.shields.io/github/forks/Soumyad0670/Netflix_Recommendation?style=social" alt="Forks"/>
 </a>
 
-<a href="https://github.com/Soumyad0670/Netflix-Recommendation-System/issues" target="_blank">
-  <img src="https://img.shields.io/github/issues/Soumyad0670/Netflix-Recommendation-System" alt="Issues"/>
+<a href="https://github.com/Soumyad0670/Netflix_Recommendation/issues" target="_blank">
+  <img src="https://img.shields.io/github/issues/Soumyad0670/Netflix_Recommendation" alt="Issues"/>
 </a>
 
-<a href="https://github.com/Soumyad0670/Netflix-Recommendation-System/blob/main/LICENSE" target="_blank">
-  <img src="https://img.shields.io/github/license/Soumyad0670/Netflix-Recommendation-System" alt="License"/>
+<a href="https://github.com/Soumyad0670/Netflix_Recommendation/blob/main/LICENSE" target="_blank">
+  <img src="https://img.shields.io/github/license/Soumyad0670/Netflix_Recommendation" alt="License"/>
 </a>
 
 > 🎥 A responsive netflix recommendation system using NLP
 
-### [🧠 Diabetes Prediction System](https://github.com/Soumyad0670/Diabetes_Prediction_System)
+### [🧠 Diabetes Prediction System](https://github.com/Soumyad0670/Diabetes_prediction)
 
-  <a href="https://github.com/Soumyad0670/Diabetes_Prediction_System/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/Soumyad0670/Diabetes_Prediction_System?style=social" alt="Stars"/>
+  <a href="https://github.com/Soumyad0670/Diabetes_prediction/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/Soumyad0670/Diabetes_prediction?style=social" alt="Stars"/>
   </a>
   
-  <a href="https://github.com/Soumyad0670/Diabetes_Prediction_System/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/Soumyad0670/Diabetes_Prediction_System?style=social" alt="Forks"/>
+  <a href="https://github.com/Soumyad0670/Diabetes_prediction/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/Soumyad0670/Diabetes_prediction?style=social" alt="Forks"/>
   </a>
   
-  <a href="https://github.com/Soumyad0670/Diabetes_Prediction_System/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/Soumyad0670/Diabetes_Prediction_System" alt="Issues"/>
+  <a href="https://github.com/Soumyad0670/Diabetes_prediction/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/Soumyad0670/Diabetes_prediction" alt="Issues"/>
   </a>
   
- <a href="https://github.com/Soumyad0670/Diabetes_Prediction_System/blob/main/LICENSE" target="_blank">
-    <img src="https://img.shields.io/github/license/Soumyad0670/Diabetes_Prediction_System" alt="License"/>
+ <a href="https://github.com/Soumyad0670/Diabetes_prediction/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/github/license/Soumyad0670/Diabetes_prediction" alt="License"/>
  </a>
 
 > 🔍 A machine learning project that predicts whether a person is diabetic based on medical features using a Random Forest Classifier.
@@ -63,7 +63,7 @@
 
 ## 🚀 Other Featured Repositories
 
-- [![🧠 AI_ML](https://img.shields.io/badge/GitHub-AI__ML-181717?style=flat&logo=github)](https://github.com/Soumyad0670/AI_ML)
+- [![🧠 AI_ML](https://img.shields.io/badge/GitHub-AI__ML-181717?style=flat&logo=github)](https://github.com/Soumyad0670/Python)
 
 - [![🔣 C Programming](https://img.shields.io/badge/GitHub-C-181717?style=flat&logo=github)](https://github.com/Soumyad0670/C)
 
