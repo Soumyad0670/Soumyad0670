@@ -93,11 +93,22 @@
 
 ---
 
+## My DEV Universe
+
 ## 📊 GitHub Stats & Daily Contribution Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumyad0670&show_icons=true&theme=radical)
+<p align="center">
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumyad0670&show_icons=true&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyad0670&theme=radical&hide_border=true" width="400" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soumyad0670&theme=radical)
+</p>
+
+## 🧠 LeetCode Contribution Heatmap
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Soumyad0670?ext=heatmap&theme=dark" width="300" />
+</p>
 
 ---
 
