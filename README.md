@@ -97,12 +97,12 @@
 
 ## 📊 GitHub Stats & Daily Contribution Streak
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soumyad0670&show_icons=true&theme=radical&hide_border=true" width="40%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyad0670&theme=radical&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Soumyad0670&show_icons=true&theme=radical&hide_border=true" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyad0670&theme=radical&hide_border=true" width="47%" />
 
 
 ## 🧠 LeetCode Contribution Heatmap
-<img src="https://leetcard.jacoblin.cool/Soumyad0670?ext=heatmap&theme=dark" width="40%" />
+<img src="https://leetcard.jacoblin.cool/Soumyad0670?ext=heatmap&theme=dark" width="47%" />
 
 ---
 
