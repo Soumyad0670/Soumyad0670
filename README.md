@@ -4,6 +4,7 @@
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100"/>
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=Soumyad0670&color=green)
 
 👋 Hi, I'm **Soumyadeep Dutta** — a passionate coder, AI-ML enthusiast, having keen interest in Generative AI! Currently a sophomore B.TECH CSE student at KIIT DU, Bhubaneswar, INDIA. I love keeping myself indulged into the world of ever-evolving technologies... Having strong command over Python programming, I keep interest in NLP and LLMs, I am here to connect with people, to make brighter ideas and projects making world a better place to live...
 
