@@ -1,8 +1,14 @@
 # 🎉 Welcome to My GitHub Portfolio! - #Coder_Soumyad 
 ---
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100"/>
-
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.ZARqf0_LKdJcQTz3bjjsgwHaE8?w=237&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="GitHub Logo 1" width="200"/>
+  <img src="https://th.bing.com/th/id/OIP.XTRl4rwNqniKlEtc6swCMgHaE8?w=285&h=190&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="GitHub Logo 2" width="230"/>
+  <img src="https://th.bing.com/th/id/OIP.7UnHN7LX1IEVhWU9lT4SxgHaEK?w=219&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="GitHub Logo 2" width="190"/>
+  <img src="https://cdn.slidesharecdn.com/ss_thumbnails/javapresentation-230728120131-7310d8e7-thumbnail.jpg?width=640&height=640&fit=bounds" alt="GitHub Logo 2" width="210"/>
+  <img src="https://wallpapercave.com/wp/wp4521298.jpg" alt="GitHub Logo 2" width="210"
+</p>
+  
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=Soumyad0670&color=green)
 
