@@ -95,8 +95,7 @@
 
 ## 🏆 My GitHub Trophies & Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Soumyad0670&theme=radical&row=1&column=7)
-
+![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=Soumyad0670&theme=gruvbox&row=1)
 ---
 
 ## My DEV Universe
