@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.ZARqf0_LKdJcQTz3bjjsgwHaE8?w=237&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="GitHub Logo 1" width="200"/>
   <img src="https://th.bing.com/th/id/OIP.XTRl4rwNqniKlEtc6swCMgHaE8?w=285&h=190&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="GitHub Logo 2" width="230"/>
-  <img src="https://th.bing.com/th/id/OIP.7UnHN7LX1IEVhWU9lT4SxgHaEK?w=219&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="GitHub Logo 2" width="190"/>
   <img src="https://cdn.slidesharecdn.com/ss_thumbnails/javapresentation-230728120131-7310d8e7-thumbnail.jpg?width=640&height=640&fit=bounds" alt="GitHub Logo 2" width="210"/>
 </p>
   
@@ -12,70 +11,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Soumyad0670&color=green)
 
 👋 Hi, I'm **Soumyadeep Dutta** — a passionate coder, AI-ML enthusiast, having keen interest in Generative AI! Currently a sophomore B.TECH CSE student at KIIT DU, Bhubaneswar, INDIA. I love keeping myself indulged into the world of ever-evolving technologies... Having strong command over Python programming, I keep interest in NLP and LLMs, I am here to connect with people, to make brighter ideas and projects making world a better place to live...
-
----
-
-## 🌟 Discover my world of code, creativity & achievements
-
-- 💻 Innovative projects showcasing technology  
-- 🏆 Highlighting my GitHub trophies & accomplishments  
-- 🔥 Daily coding streak motivating consistency & growth
-
----
-
-## 🎬 Featured Projects
-
-### [📺 Netflix Recommendation System](https://github.com/Soumyad0670/Netflix_Recommendation)
-
-<a href="https://github.com/Soumyad0670/Netflix_Recommendation/stargazers" target="_blank">
-  <img src="https://img.shields.io/github/stars/Soumyad0670/Netflix_Recommendation?style=social" alt="Stars"/>
-</a>
-
-<a href="https://github.com/Soumyad0670/Netflix_Recommendation/network/members" target="_blank">
-  <img src="https://img.shields.io/github/forks/Soumyad0670/Netflix_Recommendation?style=social" alt="Forks"/>
-</a>
-
-<a href="https://github.com/Soumyad0670/Netflix_Recommendation/issues" target="_blank">
-  <img src="https://img.shields.io/github/issues/Soumyad0670/Netflix_Recommendation" alt="Issues"/>
-</a>
-
-<a href="https://github.com/Soumyad0670/Netflix_Recommendation/blob/main/LICENSE" target="_blank">
-  <img src="https://img.shields.io/github/license/Soumyad0670/Netflix_Recommendation" alt="License"/>
-</a>
-
-> 🎥 A responsive netflix recommendation system using NLP
-
-### [🧠 Diabetes Prediction System](https://github.com/Soumyad0670/Diabetes_prediction)
-
-  <a href="https://github.com/Soumyad0670/Diabetes_prediction/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/Soumyad0670/Diabetes_prediction?style=social" alt="Stars"/>
-  </a>
-  
-  <a href="https://github.com/Soumyad0670/Diabetes_prediction/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/Soumyad0670/Diabetes_prediction?style=social" alt="Forks"/>
-  </a>
-  
-  <a href="https://github.com/Soumyad0670/Diabetes_prediction/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/Soumyad0670/Diabetes_prediction" alt="Issues"/>
-  </a>
-  
- <a href="https://github.com/Soumyad0670/Diabetes_prediction/blob/main/LICENSE" target="_blank">
-    <img src="https://img.shields.io/github/license/Soumyad0670/Diabetes_prediction" alt="License"/>
- </a>
-
-> 🔍 A machine learning project that predicts whether a person is diabetic based on medical features using a Random Forest Classifier.
-
----
-
-## 🚀 Other Featured Repositories
-
-- [![🧠AI ML](https://img.shields.io/badge/GitHub-AI__ML-181717?style=flat&logo=github)](https://github.com/Soumyad0670/AI_ML)
-
-- [![📊Python](https://img.shields.io/badge/GitHub-python-181717?style=flat&logo=github)](https://github.com/Soumyad0670/Python)
-
-- [![🔣 C Programming](https://img.shields.io/badge/GitHub-C-181717?style=flat&logo=github)](https://github.com/Soumyad0670/C)
-
-- [![☕ Java](https://img.shields.io/badge/GitHub-Java-181717?style=flat&logo=github)](https://github.com/Soumyad0670/Java)
 
 ---
 
@@ -105,10 +40,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Soumyad0670&show_icons=true&theme=radical&hide_border=true" width="47%" />
 <img src="https://streak-stats.demolab.com/?user=Soumyad0670&theme=radical&hide_border=true" width="47%" />
 
-
-## 🧠 LeetCode Contribution Heatmap
-<img src="https://leetcard.jacoblin.cool/Soumyad0670?ext=heatmap&theme=dark" width="47%" />
-
 ---
 
 ## 📬 Let’s Connect
@@ -119,19 +50,3 @@
 <a href="mailto:soumyadeep0989@gmail.com"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="24" />
 </a>
-
----
-
-## 🚀 Quick Navigation
-
-- [Projects & Demos](#-discover-my-world-of-code-creativity--achievements)
-- [Trophies & Stats](#-my-github-trophies--achievements)
-- [Connect](#-lets-connect)
-
----
-
-## 🎉 Thank you for visiting my portfolio!
-
-If you enjoy my work, please ⭐ star this repo and share it with friends! Your support means a lot.
-
-<p align="center">
